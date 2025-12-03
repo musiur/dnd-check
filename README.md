@@ -1,11 +1,14 @@
 # Bidirectional Drag & Drop Kanban Board
 
+> **📦 Source Code:** [https://github.com/musiur/dnd-check](https://github.com/musiur/dnd-check)
+
 A production-ready implementation of **bidirectional drag-and-drop** between a sidebar and Kanban board using a hybrid approach (Native HTML5 + DND-KIT).
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
 ![React](https://img.shields.io/badge/React-19-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![DND-KIT](https://img.shields.io/badge/DND--KIT-6.3-green)
+[![GitHub](https://img.shields.io/badge/GitHub-musiur%2Fdnd--check-blue?logo=github)](https://github.com/musiur/dnd-check)
 
 ## 🎯 Features
 
